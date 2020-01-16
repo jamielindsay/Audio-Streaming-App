@@ -1,0 +1,23 @@
+.header-content {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-content-search {
+  width: 200px;
+}
+
+.header-content button {
+  color: white;
+}
+
+.header-user {
+  cursor: pointer;
+}
+
+.account-menu {
+  width: 100px;
+  text-align: center;
+}
